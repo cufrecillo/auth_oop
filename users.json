@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "user_name": "admin",
+            "user_pwd": "1234"
+        },
+        {
+            "user_name": "test",
+            "user_pwd": "1234"
+        },
+        {
+            "user_name": "prueba",
+            "user_pwd": "1234"
+        },
+        {
+            "user_name": "prueba2",
+            "user_pwd": "1234"
+        },
+        {
+            "user_name": "prueba3",
+            "user_pwd": "1234"
+        }
+    ]
+}
